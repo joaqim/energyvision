@@ -36,6 +36,7 @@ web/storybook-static
 # lock-files from other package managers than pnpm
 # yarn.lock // We use yarn for studio
 package-lock.json
+.pnpm-debug.log
 
 # IDE specific files
 .idea
